@@ -16,7 +16,7 @@ A aplicação do UVA ajuda a reduzir a unidimensionalidade do seu conjunto de da
 O pacote Exploratory Graph Analysis permite selecionar diversos parâmetros para construir o grafo, como o tipo de correlação, modelos, clusterização, dentre outros. Dessa forma, ajuste-os para que faça sentido para seu conjunto de dados.
 
 # Referências
-[1] R Core Team (2021). R: A language and environment for statistical computing. R Foundation for Statistical Computing, Vienna, Austria. URL https://www.R-project.org/.
+[1] R Core Team (2021). R: A language and environment for statistical computing. R Foundation for Statistical Computing, Vienna, Austria. URL https://www.R-project.org/.\n
 [2] Posit team (2025). RStudio: Integrated Development Environment for R. Posit Software, PBC, Boston, MA. URL http://www.posit.co/.
 [3] Golino, H., & Christensen, A. P. (2025). EGAnet: Exploratory Graph Analysis – A framework for estimating the number of dimensions in multivariate data using network psychometrics. https://doi.org/10.32614/CRAN.package.EGAnet
 [4] Wickham H, Bryan J (2025). readxl: Read Excel Files. R package version 1.4.5, https://github.com/tidyverse/readxl, https://readxl.tidyverse.org.
