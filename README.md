@@ -1,8 +1,8 @@
 # Análise de Grafos em R
-Todas as análises foram realizadas em R ([1](#r)) no ambiente do RStudio ([2](#rstudio)).  
+Todas as análises foram realizadas em R [\[1\]](#r) no ambiente do RStudio [\[2\]](#rstudio).  
 
 ## Pacotes
-Lembre-se de, antes de tudo, instalar os pacotes necessários através de install.packages("pacote"). Você vai precisar de: EGAnet [3], readxl [4], ggplot2 [5], dplyr [6], qgraph [7], tidyverse [8], psychTools [9], igraph [10] e networktools [11]. Caso não consiga (ou queira) instalar todos, apenas o EGAnet, readxl, tidyverse e dplyr serão fundamentais.  
+Lembre-se de, antes de tudo, instalar os pacotes necessários através de install.packages("pacote"). Você vai precisar de: EGAnet [\[3\]](#ega), readxl [\[4\]](#readxl), ggplot2 [\[5\]](#ggplot2), dplyr [\[6\]](#dplyr), qgraph [\[7\]](#qgraph), tidyverse [\[8\]](#tidyverse), psychTools [\[9\]](#psychtools), igraph [\[10\]](#igraph) e networktools [\[11\]](#networktools). Caso não consiga (ou queira) instalar todos, apenas o EGAnet, readxl, tidyverse e dplyr serão fundamentais.  
 
 
 ## Importando os Dados
